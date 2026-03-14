@@ -81,16 +81,9 @@ patentgraph-mysql/
 ├── DESIGN.md
 ├── sql/
 │   ├── schema.sql
-│   ├── indexes.sql
-│   ├── analytics.sql
-│   └── seed_queries.sql
+│   ├── queries.sql
+│   └── load_data.sql
 ├── data/
-│   ├── raw/
-│   └── processed/
-├── scripts/
-│   ├── load_patents.py
-│   ├── load_aipd.py
-│   └── clean_merge.py
 └── docs/
     ├── erd.png
     └── screenshots/
