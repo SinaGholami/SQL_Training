@@ -1,0 +1,13 @@
+patent_id,patent_title,patent_date,grant_year,patent_type
+US10000001,Neural network optimization for battery state estimation,2018-03-20,2018,utility
+US10000002,Computer vision system for industrial defect detection,2018-07-11,2018,utility
+US10000003,Natural language processing for legal document retrieval,2019-01-15,2019,utility
+US10000004,Autonomous planning system for warehouse robots,2019-09-03,2019,utility
+US10000005,Machine learning model for fraud detection,2020-02-18,2020,utility
+US10000006,AI-assisted medical imaging diagnosis,2020-11-10,2020,utility
+US10000007,Predictive maintenance using sensor data streams,2021-04-27,2021,utility
+US10000008,Speech recognition for multilingual call centers,2021-12-14,2021,utility
+US10000009,Vision-based traffic monitoring platform,2022-05-17,2022,utility
+US10000010,Reinforcement learning for energy management,2022-10-25,2022,utility
+US10000011,Large-scale recommendation engine architecture,2023-03-07,2023,utility
+US10000012,AI pipeline for satellite image segmentation,2023-08-29,2023,utility
